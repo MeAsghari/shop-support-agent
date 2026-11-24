@@ -1,4 +1,4 @@
-# Third Agent
+# Shop Support Agent
 
 A customer-support assistant for an online shop. It answers questions about shop policies (RAG), looks up a customer's own orders (MCP tool), and opens support tickets only after a human reviewer approves them.
 
